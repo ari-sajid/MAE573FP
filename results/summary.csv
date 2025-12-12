@@ -1,0 +1,9 @@
+Metric,Value
+Total_Cost_per_yr,1.4400561486920145e10
+DataCenter_Size_MW,1000.0
+DataCenter_Zone,1.0
+Strike_Price_per_MWh,300.0
+Curtailment_MWh_per_yr,32255.05047720715
+Curtailment_Hours,23.0
+New_Capacity_MW,25897.571545001625
+Total_Generation_TWh,463.51344690109187
